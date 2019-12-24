@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matgod/Study/Linux/Lab_3/main.cpp
+iostream
+-
+fstream
+-
+cstring
+-
+unistd.h
+-
+

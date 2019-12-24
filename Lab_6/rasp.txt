@@ -1,0 +1,1 @@
+*/1 * * * * /home/matgod/Study/Linux/Lab_1/cmake-build-debug/./Lab_1 >> /home/matgod/Study/Linux/Lab_6/Lab_6.txt

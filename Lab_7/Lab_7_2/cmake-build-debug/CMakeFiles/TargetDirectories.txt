@@ -1,0 +1,3 @@
+/home/matgod/Study/Linux/Lab_7/Lab_7_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matgod/Study/Linux/Lab_7/Lab_7_2/cmake-build-debug/CMakeFiles/Lab_7_2.dir
+/home/matgod/Study/Linux/Lab_7/Lab_7_2/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matgod/Study/Linux/Lab_3/Lab_3_vfork/main.cpp
+iostream
+-
+fstream
+-
+unistd.h
+-
+
