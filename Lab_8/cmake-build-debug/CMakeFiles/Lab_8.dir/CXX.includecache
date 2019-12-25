@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/matgod/Study/LinuxEltechLabs/Lab_8/main.cpp
+iostream
+-
+sys/ipc.h
+-
+sys/msg.h
+-
+csignal
+-
+sys/time.h
+-
+unistd.h
+-
+
