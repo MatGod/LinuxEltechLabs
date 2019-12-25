@@ -11,7 +11,72 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0114cfe2-6e27-4b08-ad6d-f4b6fb069d63" name="Default Changelist" comment="" />
+    <list default="true" id="0114cfe2-6e27-4b08-ad6d-f4b6fb069d63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_7/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab_3.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab_3.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab_3.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab_3.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab_3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab_3.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab_3.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab_3.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab_3.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Lab_3.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab_3" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Lab_3.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Lab_3.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Lab7_1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Lab7_1.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Lab7_1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Lab7_1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Lab7_1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Lab7_1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Lab7_1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Lab7_1.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Lab7_1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Lab7_1.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/Lab7_1" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/Lab7_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/Lab7_1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/Lab7_1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/Lab7_1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/Lab7_1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7_1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7_1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7_1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Lab_7_1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/Lab_7" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/Lab_7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/Lab_7.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/Lab_7.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/cmake-build-debug/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab_7/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab_7/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,19 +86,31 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UAA4QVB1OcylM025qXKM4fqhal" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab_4/Lab_4_Reader" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="Lab_3" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="1 2 3 out.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab_3" TARGET_NAME="Lab_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab_3" RUN_TARGET_NAME="Lab_3">
+    <configuration name="Lab_3" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="1 1 1 out.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab_3" TARGET_NAME="Lab_3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab_3" RUN_TARGET_NAME="Lab_3">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -85,6 +162,7 @@
       <workItem from="1576487631086" duration="543000" />
       <workItem from="1576488619031" duration="50000" />
       <workItem from="1577086622892" duration="10000" />
+      <workItem from="1577230108711" duration="1239000" />
     </task>
     <servers />
   </component>
@@ -92,30 +170,35 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="176" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576488649593">
-      <screen x="70" y="27" width="1296" height="741" />
+    <state x="2025" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577230736635">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state x="176" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1576488649593" />
+    <state x="2025" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1850.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1577230736635" />
     <state x="495" y="144" width="424" height="520" key="FileChooserDialogImpl" timestamp="1577086632632">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="495" y="144" width="424" height="520" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1577086632632" />
-    <state width="1250" height="172" key="GridCell.Tab.0.bottom" timestamp="1576488668820">
-      <screen x="70" y="27" width="1296" height="741" />
+    <state width="1234" height="266" key="GridCell.Tab.0.bottom" timestamp="1577230738233">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state width="1250" height="172" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1576488668820" />
-    <state width="1250" height="172" key="GridCell.Tab.0.center" timestamp="1576488668820">
-      <screen x="70" y="27" width="1296" height="741" />
+    <state width="1234" height="266" key="GridCell.Tab.0.bottom/70.27.1850.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1577230738233" />
+    <state width="1234" height="266" key="GridCell.Tab.0.center" timestamp="1577230738233">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state width="1250" height="172" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1576488668820" />
-    <state width="1250" height="172" key="GridCell.Tab.0.left" timestamp="1576488668819">
-      <screen x="70" y="27" width="1296" height="741" />
+    <state width="1234" height="266" key="GridCell.Tab.0.center/70.27.1850.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1577230738233" />
+    <state width="1234" height="266" key="GridCell.Tab.0.left" timestamp="1577230738233">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state width="1250" height="172" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1576488668819" />
-    <state width="1250" height="172" key="GridCell.Tab.0.right" timestamp="1576488668820">
-      <screen x="70" y="27" width="1296" height="741" />
+    <state width="1234" height="266" key="GridCell.Tab.0.left/70.27.1850.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1577230738233" />
+    <state width="1234" height="266" key="GridCell.Tab.0.right" timestamp="1577230738233">
+      <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state width="1250" height="172" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1576488668820" />
+    <state width="1234" height="266" key="GridCell.Tab.0.right/70.27.1850.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1577230738233" />
     <state width="1250" height="221" key="GridCell.Tab.1.bottom" timestamp="1576474690753">
       <screen x="70" y="27" width="1296" height="741" />
     </state>

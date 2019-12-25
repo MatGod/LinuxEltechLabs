@@ -14,7 +14,7 @@ int main(int argc, char* argv[]) {
         exit(0);
     } else {
         if (vfork() == 0) {
-            execl("/home/matgod/Study/Linux/Lab_3/Lab_3_vfork/cmake-build-debug/Lab_3_vfork", "Lab_3_vfork",
+            execl("/home/matgod/Study/LinuxEltechLabs/Lab_3/Lab_3_vfork/cmake-build-debug/Lab_3_vfork", "Lab_3_vfork",
                   "VForkChild", argv[3], argv[4], NULL);
         } else {
             sleep(static_cast<unsigned int>(atoi(argv[1])));

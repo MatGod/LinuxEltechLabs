@@ -1,4 +1,4 @@
-/home/matgod/Study/Linux/Lab_7/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/matgod/Study/Linux/Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir
-/home/matgod/Study/Linux/Lab_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/matgod/Study/Linux/Lab_7/cmake-build-debug/CMakeFiles/Lab_7_1.dir
+/home/matgod/Study/LinuxEltechLabs/Lab_7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matgod/Study/LinuxEltechLabs/Lab_7/cmake-build-debug/CMakeFiles/Lab_7.dir
+/home/matgod/Study/LinuxEltechLabs/Lab_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matgod/Study/LinuxEltechLabs/Lab_7/cmake-build-debug/CMakeFiles/Lab_7_1.dir

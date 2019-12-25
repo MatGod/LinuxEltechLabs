@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/matgod/Study/Linux/Lab_3/main.cpp
+/home/matgod/Study/LinuxEltechLabs/Lab_3/main.cpp
 iostream
 -
 fstream

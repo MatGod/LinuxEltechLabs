@@ -14,13 +14,13 @@ int main(int argc, char* argv[]) {
     std::ofstream fout;
     fout.open(argv[3]);
     if(fork() == 0) {
-        execl("/home/matgod/Study/Linux/Lab_7/Lab7_1/cmake-build-debug/Lab7_1", argv[1],
-                std::to_string(fildes[0]).c_str(), std::to_string(fildes[1]).c_str());
+        execl("/home/matgod/Study/LinuxEltechLabs/Lab_7/Lab7_1/cmake-build-debug/Lab7_1", "Lab7_1", argv[1],
+                std::to_string(fildes[0]).c_str(), std::to_string(fildes[1]).c_str(), NULL);
         std::cout << "impossible to exec 1";
     } else {
         if (fork() == 0) {
-            execl("/home/matgod/Study/Linux/Lab_7/Lab7_1/cmake-build-debug/Lab7_1", argv[2],
-                  std::to_string(fildes[0]).c_str(), std::to_string(fildes[1]).c_str());
+            execl("/home/matgod/Study/LinuxEltechLabs/Lab_7/Lab7_1/cmake-build-debug/Lab7_1", "Lab7_1", argv[2],
+                  std::to_string(fildes[0]).c_str(), std::to_string(fildes[1]).c_str(), NULL);
             std::cout << "impossible to exec 2";
         }
     }
