@@ -6,10 +6,10 @@
 #include <fstream>
 
 using namespace std;
+
 pid_t pid_child1, pid_child2;
 int fildes[2];
 bool ready[2] = {false, false};
-ofstream fout1, fout2;
 
 int main(int argc, char *argv[]) {
     pipe(fildes);
@@ -25,52 +25,13 @@ int main(int argc, char *argv[]) {
     signal(SIGTERM, SIG_IGN);
     pid_child1 = fork();
     if (!pid_child1) {
-        cout << "Сhild 1 started" << endl;
-        close(fildes[1]);
-        signal(SIGUSR1, [](int signum) {
-            char ch;
-            int status = read(fildes[0], &ch, sizeof(ch));
-            if (status == -1) {
-                kill(-getppid(), SIGTERM);
-            }
-            else {
-                cout << "CHILD 1: " << ch << endl;
-                fout1 << ch;
-            }
-            kill(-getppid(), SIGUSR2);
-        });
-        signal(SIGTERM, [](int signum) {
-            close(fildes[0]);
-            fout1.close();
-            exit(0);
-        });
-        fout1.open(argv[2]);
-        kill(getppid(), SIGUSR1);
-        while(true) pause();
+        execl("/home/matgod/Study/LinuxEltechLabs/Lab_7/Lab_7_2/Lab_7_2_execl/cmake-build-debug/Lab_7_2_execl", "1",
+                to_string(fildes[0]).c_str(), to_string(fildes[1]).c_str(), argv[2], NULL);
     }
     pid_child2 = fork();
     if (!pid_child2) {
-        cout << "Child 2 started" << endl;
-        close(fildes[1]);
-        signal(SIGUSR2, [](int signum) {
-            char ch;
-            int status = read(fildes[0], &ch, sizeof(ch));
-            if (status == -1)
-                kill(-getppid(), SIGTERM);
-            if (ch != NULL) {
-                cout << "CHILD 2: " << ch << endl;
-                fout2 << ch;
-            }
-            kill(-getppid(), SIGUSR1);
-        });
-        signal(SIGTERM, [](int signum) {
-            close(fildes[0]);
-            fout2.close();
-            exit(0);
-        });
-        fout2.open(argv[3]);
-        kill(getppid(), SIGUSR2);
-        while(true) pause();
+        execl("/home/matgod/Study/LinuxEltechLabs/Lab_7/Lab_7_2/Lab_7_2_execl/cmake-build-debug/Lab_7_2_execl", "2",
+                to_string(fildes[0]).c_str(), to_string(fildes[1]).c_str(), argv[3], NULL);
     }
     ifstream fin;
     fin.open(argv[1]);
