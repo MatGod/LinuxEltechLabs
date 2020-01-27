@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Lab_8_Client.dir/main.cpp.o  -o Lab_8_Client 

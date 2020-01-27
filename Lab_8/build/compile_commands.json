@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/run/media/gikari/Lagann/Nextcloud/TEXHO/C4/S7/GNU/Lab_8/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o Part_1/CMakeFiles/lab_8_1_1.dir/lab_8_1_1.cpp.o -c /run/media/gikari/Lagann/Nextcloud/TEXHO/C4/S7/GNU/Lab_8/Part_1/lab_8_1_1.cpp",
+  "file": "/run/media/gikari/Lagann/Nextcloud/TEXHO/C4/S7/GNU/Lab_8/Part_1/lab_8_1_1.cpp"
+},
+
+{
+  "directory": "/run/media/gikari/Lagann/Nextcloud/TEXHO/C4/S7/GNU/Lab_8/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o Part_1/CMakeFiles/lab_8_1_2.dir/lab_8_1_2.cpp.o -c /run/media/gikari/Lagann/Nextcloud/TEXHO/C4/S7/GNU/Lab_8/Part_1/lab_8_1_2.cpp",
+  "file": "/run/media/gikari/Lagann/Nextcloud/TEXHO/C4/S7/GNU/Lab_8/Part_1/lab_8_1_2.cpp"
+},
+
+{
+  "directory": "/run/media/gikari/Lagann/Nextcloud/TEXHO/C4/S7/GNU/Lab_8/build",
+  "command": "/usr/bin/g++    -g   -std=c++17 -o Part_2/CMakeFiles/lab_8_2.dir/lab_8_2.cpp.o -c /run/media/gikari/Lagann/Nextcloud/TEXHO/C4/S7/GNU/Lab_8/Part_2/lab_8_2.cpp",
+  "file": "/run/media/gikari/Lagann/Nextcloud/TEXHO/C4/S7/GNU/Lab_8/Part_2/lab_8_2.cpp"
+}
+]

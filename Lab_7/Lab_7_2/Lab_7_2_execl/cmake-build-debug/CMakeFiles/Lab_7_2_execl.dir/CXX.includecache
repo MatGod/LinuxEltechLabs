@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/matgod/Study/LinuxEltechLabs/Lab_7/Lab_7_2/Lab_7_2_execl/main.cpp
+/home/matgod/ELTECH/LinuxEltechLabs/Lab_7/Lab_7_2/Lab_7_2_execl/main.cpp
 iostream
 -
 unistd.h
